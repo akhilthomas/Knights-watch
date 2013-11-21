@@ -10,9 +10,9 @@
   ],
 
   "browser_action": {
-    "default_icon": "images/icon.png",
+    "default_icon": "images/icon1.png",
     "default_popup": "popup.html",
     "default_name": "tabZhub",
-    "icons": ["icon.png"]
+    "icons": ["icon1.png"]
   }
 }
